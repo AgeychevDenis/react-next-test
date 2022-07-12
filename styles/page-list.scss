@@ -1,0 +1,92 @@
+#box1 {
+   right: 32%;
+   top: 7%;
+   p {
+      top: -28%;
+      left: 16%;
+   }
+   &.active p {
+      opacity: 1;
+   }
+}
+#box2 {
+   top: 19%;
+   right: 4%;
+   p {
+      top: 17%;
+      left: 104%;
+      min-width: 242px;
+   }
+   &.active p {
+      opacity: 1;
+   }
+}
+#box3 {
+   top: 20%;
+   left: 21%;
+   p {
+      top: 14%;
+      left: -137%;
+   }
+   &.active p {
+      opacity: 1;
+   }
+}
+#box4 {
+   top: 48%;
+   right: -9%;
+   p {
+      top: 29%;
+      left: 113%;
+      min-width: 187px;
+   }
+   &.active p {
+      opacity: 1;
+   }
+}
+#box5 {
+   top: 51%;
+   left: 9%;
+   p {
+      top: 24%;
+      left: -123%;
+   }
+   &.active p {
+      opacity: 1;
+   }
+}
+#box6 {
+   top: 79%;
+   right: 2%;
+   p {
+      top: 4%;
+      left: 115%;
+      min-width: 187px;
+   }
+   &.active p {
+      opacity: 1;
+   }
+}
+#box7 {
+   top: 80%;
+   left: 21%;
+   p {
+      top: 20%;
+      left: -191%;
+   }
+   &.active p {
+      opacity: 1;
+   }
+}
+#box8 {
+   top: 93%;
+   right: 33%;
+   p {
+      top: 109%;
+      left: -23%;
+      min-width: 239px;
+   }
+   &.active p {
+      opacity: 1;
+   }
+}
